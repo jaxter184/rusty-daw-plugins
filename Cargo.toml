@@ -12,6 +12,7 @@ members = [
     "dc-offset-dsp",
     "example-gain-dsp",
     "example-gain-plugin",
+    "mid-side-dsp",
     "parametric-eq",
 ]
 
