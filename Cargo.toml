@@ -9,6 +9,7 @@ publish = false
 
 [workspace]
 members = [
+    "dc-offset-dsp",
     "example-gain-dsp",
     "example-gain-plugin",
     "parametric-eq",
